@@ -26,7 +26,7 @@ This project analyzes patient appointment data from **True North Health Network*
 ---
 
 ## Dataset
-- <a href="https://github.com/FitriAntoni/Excel-Healthcare-Dashboard/blob/main/True%20North%20Health%20Network%20raw%20data.xlsx">True North Health Data</a>
+- <a href="https://github.com/FitriAntoni/Excel-Healthcare-Dashboard/blob/main/True%20North%20Health%20Network.xlsx">True North Health Data</a>
 ## Interactive Dashboard
 - <a href="https://github.com/FitriAntoni/Excel-Healthcare-Dashboard/blob/main/Dashboard.png">Dashboard</a>
 
