@@ -1,11 +1,11 @@
-# 🏥 Patient No-Show Analysis (Interactive Dashboard in Microsoft Excel)
+# Patient No-Show Analysis (Interactive Dashboard in Microsoft Excel)
 
-## 📖 Project Overview
+## Project Overview
 
 This project analyzes patient appointment data from **True North Health Network** to identify the key factors contributing to missed appointments (no-shows). The insights generated from this analysis help healthcare providers develop targeted interventions to reduce no-show rates, optimize scheduling efficiency, and improve patient care.
 
 ---
-## 🎯 Project Objective
+## Project Objective
 
 - Identify the key factors associated with patient no-shows.
 - Analyze appointment patterns across countries, clinics, specialties, and demographics.
@@ -14,7 +14,7 @@ This project analyzes patient appointment data from **True North Health Network*
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Microsoft Excel
 - Power Query
@@ -25,12 +25,12 @@ This project analyzes patient appointment data from **True North Health Network*
 
 ---
 
-## 📂 Dataset
+## Dataset
 - <a href="https://github.com/FitriAntoni/Excel-Healthcare-Dashboard/blob/main/True%20North%20Health%20Network%20raw%20data.xlsx">True North Health Data</a>
-## 📊 Interactive Dashboard
+## Interactive Dashboard
 - <a href="https://github.com/FitriAntoni/Excel-Healthcare-Dashboard/blob/main/Dashboard.png">Dashboard</a>
 
-## 📌 Key Business Questions
+## Key Business Questions
 
 - Total appointments vs. total no-show appointments
 - Average patient age
@@ -44,7 +44,7 @@ This project analyzes patient appointment data from **True North Health Network*
 
 ---
 
-## ⚙️ Project Process
+## Project Process
 
 ### Data Preparation
 
@@ -68,7 +68,7 @@ This project analyzes patient appointment data from **True North Health Network*
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 - Canada recorded the highest patient no-show rate among all countries in the analysis.
 - The three clinics with the highest no-show rates were Central Clinic, Westcare Outpatient, and Eastgate Specialist Centre.
@@ -80,13 +80,13 @@ This project analyzes patient appointment data from **True North Health Network*
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 
 Patient no-shows are influenced by several factors, including clinic location, appointment type, medical specialty, patient demographics, previous attendance behavior, and appointment lead time. Historical no-show behavior and extended waiting periods were the strongest indicators of future missed appointments.
 
 ---
 
-## ✅ Recommendations
+## Recommendations
 
 - Implement targeted reminder systems for high-risk patients.
 - Reduce long appointment lead times where operationally feasible.
@@ -96,7 +96,7 @@ Patient no-shows are influenced by several factors, including clinic location, a
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 Patient-No-Show-Analysis
@@ -112,7 +112,7 @@ Patient-No-Show-Analysis
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Fitri Antoni**
 
